@@ -24,7 +24,7 @@ Hi, I'm Abiel Porras!
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 
-#### Development
+#### Frameworks and Services
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
@@ -37,7 +37,9 @@ Hi, I'm Abiel Porras!
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+MySQL: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+PostgreSQL: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
+MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 
 #### Tools and Technologies
