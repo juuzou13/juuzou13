@@ -25,7 +25,11 @@ Hi, I'm Abiel Porras!
 
 
 #### Development
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
 <!--      
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
