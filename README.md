@@ -9,7 +9,7 @@ Hi, I'm Abiel Porras!
 <table width="100%" >
 
  <tr>
-    <td width="60%">
+    <td width="50%">
      
 ## 🛠️ Skills
 
