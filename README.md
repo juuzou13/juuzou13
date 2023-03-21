@@ -11,7 +11,7 @@ Hi, I'm Abiel Porras!
 
 ### Computer Science Engineering student at the Tecnológico de Costa Rica
 <br>
-![Gmail Icon](https://img.icons8.com/fluency-systems-filled/24/000000/gmail.png) [abielpg.juzo@gmail.com](mailto:abielpg.juzo@gmail.com)
+![Gmail Icon](https://img.icons8.com/fluency-systems-filled/24/000000/gmail.png)[abielpg.juzo@gmail.com](mailto:abielpg.juzo@gmail.com)
 
 
 
