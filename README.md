@@ -81,7 +81,7 @@ Hi, I'm Abiel!
 </h2>
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/abiel-porras-garro-6a065017b/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/abielpg13/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 	<a href="mailto:abielpg.juzo@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 	<a href = "https://discordapp.com/users/1050494498465132604"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 </div>
