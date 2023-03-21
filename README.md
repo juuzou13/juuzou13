@@ -69,6 +69,10 @@ Hi, I'm Abiel!
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![AutoCAD](https://img.shields.io/badge/AutoCAD-CA472D?style=flat&logo=autocad&logoColor=white)&nbsp;
+![Revit](https://img.shields.io/badge/Revit-0077C2?style=flat&logo=autodesk&logoColor=white)&nbsp;
+![SketchUp](https://img.shields.io/badge/SketchUp-F16146?style=flat&logo=SketchUp&logoColor=white)&nbsp;
+![Lumion](https://img.shields.io/badge/Lumion-1DB954?style=flat&logo=lumion&logoColor=white)&nbsp;
 
 
 <h2 align="center">
