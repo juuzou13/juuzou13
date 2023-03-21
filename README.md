@@ -9,10 +9,10 @@ Hi, I'm Abiel Porras!
 	Computer Science Engineering student at the Tecnológico de Costa Rica
 	<br>
 	<h4 align="center">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/gmail-original.svg" alt="Gmail" width="10" height="10"/>
+		<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
 		<br>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="10" height="10"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
 	</h4>
 </h3>
