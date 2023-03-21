@@ -82,9 +82,9 @@ Hi, I'm Abiel Porras!
 	<a href = "https://discordapp.com/users/1050494498465132604"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 </div>
 
-<h2 align="center">
+<h4 align="center">
 	abielpg.juzo@gmail.com
-</h2>
+</h4>
 
 
 
