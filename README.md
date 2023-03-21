@@ -9,12 +9,6 @@ Hi, I'm Abiel Porras!
 	Computer Science Engineering student at the Tecnológico de Costa Rica
 </h3>
 
--------------------
-
-<!-- <table width="100%">
-
- <tr>
-    <td width="50%"> -->
 
 
 
@@ -72,21 +66,6 @@ Hi, I'm Abiel Porras!
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 
 
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
-     
-<!-- </td>
-    <td> -->
-  
-<!-- ## 📄 Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
-</div> -->
-     
-<!--   </td>
- </tr>
-</table> -->
 
 
 <!--
