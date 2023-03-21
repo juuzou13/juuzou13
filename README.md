@@ -8,6 +8,10 @@ Hi, I'm Abiel Porras!
 <h3 align="center">
 	Computer Science Engineering student at the Tecnológico de Costa Rica
 	<br>
+	<div style="display:flex;align-items:center;">
+	  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
+	  <h4 style="margin:0;margin-left:10px;">abielpg.juzo@gmail.com</h4>
+	</div>
 	<h4 align="center">
 		<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
