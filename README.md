@@ -69,12 +69,12 @@ Hi, I'm Abiel Porras!
 <!-- </td>
     <td> -->
   
-## 📄 Stats
+<!-- ## 📄 Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
-</div>
+</div> -->
      
 <!--   </td>
  </tr>
