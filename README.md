@@ -10,7 +10,7 @@ Hi, I'm Abiel Porras!
     <br>
     <span style="display: flex; align-items: center; justify-content: center;">
         <img src="https://img.icons8.com/fluency-systems-filled/24/000000/gmail.png"/>
-        <a href="mailto:abielpg.juzo@gmail.com">abielpg.juzo@gmail.com</a>
+        <a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
     </span>
 </h3>
 
