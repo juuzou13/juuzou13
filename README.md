@@ -15,7 +15,7 @@ Hi, I'm Abiel Porras!
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
 		<br>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/itchio/itchio-original.svg" alt="itch.io" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
 	</h4>
 </h3>
