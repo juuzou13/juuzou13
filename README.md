@@ -9,9 +9,12 @@ Hi, I'm Abiel Porras!
 	Computer Science Engineering student at the Tecnológico de Costa Rica
 </h3>
 
-<h4 align="center">
+<h5 align="center">
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
 	abielpg.juzo@gmail.com
-</h4>
+</h5>
 
 
 
