@@ -6,7 +6,7 @@ Hi, I'm Abiel Porras!
 </h1>
 
 
-<table width="100%" >
+<table width="100%" style="border: none;">
 
  <tr>
     <td width="50%">
