@@ -66,17 +66,9 @@ Hi, I'm Abiel Porras!
 ## 📄📜 Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117" alt="Esteban Alvarado github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
 </div>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=juuzou13&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=juuzou13"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuzou13&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
      
 <!--   </td>
  </tr>
