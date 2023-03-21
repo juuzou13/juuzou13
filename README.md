@@ -9,9 +9,9 @@ Hi, I'm Abiel Porras!
 	Computer Science Engineering student at the Tecnológico de Costa Rica
 </h3>
 
-✍️ &nbsp;I am a final-year student of Computer Science, passionate about software development and video games. During my studies, I have had the opportunity to work on several projects, where I have gained extensive experience in developing web and desktop applications, as well as software documentation.\
+✍️ &nbsp;I'm a final-year student of Computer Science, passionate about software development and video games. During my studies, I have had the opportunity to work on several projects, where I have gained extensive experience in developing web and desktop applications, as well as software documentation.\
 💡 &nbsp;I also have experience leading teams, with strong communication and adaptability skills, and a strong desire to continue learning and improving as a self-taught individual.\
-🚀 &nbsp;I am interested in job opportunities that allow me to continue growing in software development, applying my technical and leadership skills, and contributing to achieving concrete objectives and results.
+🚀 &nbsp;I'm interested in job opportunities that allow me to continue growing in software development, applying my technical and leadership skills, and contributing to achieving concrete objectives and results.
 
 
 ## 🛠️ Skills & Stats 📜
