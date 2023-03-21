@@ -12,7 +12,7 @@ Hi, I'm Abiel Porras!
 
 
 
-## 🛠️ Skills & 📜 Stats
+## 🛠️ Skills & Stats 📜
 
 <h2>
 Skills
