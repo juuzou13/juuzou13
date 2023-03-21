@@ -76,6 +76,13 @@ Hi, I'm Abiel Porras!
 	<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
 </h2>
 
+<div align="center">
+	<a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+	<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+	<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+</div>
+
+
 
 <!--
 **juuzou13/juuzou13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
