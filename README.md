@@ -14,7 +14,7 @@ Hi, I'm Abiel Porras!
      
 ## 🛠️ Skills & 📜 Stats
 
-<img width="44%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=false&bg_color=0d1117"/>
+<img width="45%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=false&bg_color=0d1117"/>
 
 #### Languages
 	   
