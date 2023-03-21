@@ -5,10 +5,10 @@ Hi, I'm Abiel Porras!
 	</a>
 </h1>
 
-<table width="100%" style="border: none; border-collapse: collapse;>
+<table width="100%" style="border: none; border-collapse: collapse;">
 
- <tr style="border: none;">
-    <td width="50%" style="border: none;">
+ <tr>
+    <td width="50%">
      
 ## 🛠️ Skills
 
