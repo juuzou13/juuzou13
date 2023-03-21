@@ -12,7 +12,7 @@ Hi, I'm Abiel Porras!
 
 
      
-## 🛠️ Skills
+## 🛠️ Skills and 📜 Stats
 
 <img width="44%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/>
 
@@ -69,7 +69,7 @@ Hi, I'm Abiel Porras!
 <!-- </td>
     <td> -->
   
-## 📄📜 Stats
+## 📄 Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/> 
