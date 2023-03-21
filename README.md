@@ -78,6 +78,16 @@ Hi, I'm Abiel Porras!
  </tr>
 </table>
 
+<div style="display: flex;">
+  <div style="width: 50%;">
+    Contenido de la primera columna
+  </div>
+  <div style="width: 50%;">
+    Contenido de la segunda columna
+  </div>
+</div>
+
+
 <!--
 **juuzou13/juuzou13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
