@@ -11,8 +11,16 @@ Hi, I'm Abiel Porras!
     <td width="50%"> -->
 
 
-     
+
 ## 🛠️ Skills & 📜 Stats
+
+<h2 align="center">
+Skills
+<a href="https://github.com/Bouaskaoun" target="_self">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</a>
+Stats
+</h2>
 
 <img width="45%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/>
 
