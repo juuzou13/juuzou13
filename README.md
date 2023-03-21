@@ -13,8 +13,10 @@ Hi, I'm Abiel Porras!
 💡 &nbsp;I also have experience leading teams, with strong communication and adaptability skills, and a strong desire to continue learning and improving as a self-taught individual.\
 🚀 &nbsp;I'm interested in job opportunities that allow me to continue growing in software development, applying my technical and leadership skills, and contributing to achieving concrete objectives and results.
 
-
-## 🛠️ Skills & Stats 📜
+<h2 align="center">
+🛠️ Skills & Stats 📜
+</h2>
+<!-- ## 🛠️ Skills & Stats 📜 -->
 
 <img width="45%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/>
 
