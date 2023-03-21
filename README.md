@@ -85,9 +85,9 @@ Hi, I'm Abiel Porras!
 	</a>
 </h1>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        ## 🛠️ Skills
+<div style="display:flex;">
+    <div style="width:50%;">
+## 🛠️ Skills
 
 #### Languages
 	   
@@ -134,8 +134,8 @@ Hi, I'm Abiel Porras!
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
     </div>
-    <div style="flex: 1;">
-        ## 📄📜 Stats
+    <div style="width:50%;">
+## 📄📜 Stats
 
 
 <p align="center">
