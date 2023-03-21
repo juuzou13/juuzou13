@@ -5,9 +5,11 @@ Hi, I'm Abiel Porras!
 	</a>
 </h1>
 
-<h2 align="center">
-	Computer Science Engineer student at TEC Costa Rica
-</h2>
+<h3 align="center">
+	Computer Science Engineering student at the Tecnológico de Costa Rica
+</h3>
+
+-------------------
 
 <!-- <table width="100%">
 
