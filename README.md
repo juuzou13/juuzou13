@@ -8,8 +8,8 @@ Hi, I'm Abiel Porras!
 
 <table width="100%" style="border: none;">
 
- <tr>
-    <td width="50%">
+ <tr style="border: none;">
+    <td width="50%" style="border: none;">
      
 ## 🛠️ Skills
 
