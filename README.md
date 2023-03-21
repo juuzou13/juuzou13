@@ -11,6 +11,9 @@ Hi, I'm Abiel Porras!
 	<h4 align="center">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/gmail-original.svg" alt="Gmail" width="40" height="40"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
+		<br>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
 	</h4>
 </h3>
 
