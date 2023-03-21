@@ -14,7 +14,7 @@ Hi, I'm Abiel Porras!
      
 ## 🛠️ Skills
 
-<img width="49%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/>
+<img width="45%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/>
 
 #### Languages
 	   
@@ -39,7 +39,7 @@ Hi, I'm Abiel Porras!
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
 
-<img width="49%" height="195px" align="right" style="margin-right: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
+<img width="49%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
 
 #### Database
 
@@ -72,7 +72,7 @@ Hi, I'm Abiel Porras!
 ## 📄📜 Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=ffffff"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
 </div>
      
