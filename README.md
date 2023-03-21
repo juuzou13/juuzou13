@@ -5,14 +5,7 @@ Hi, I'm Abiel Porras!
 	</a>
 </h1>
 
-<style>
-  table {
-    border-collapse: collapse;
-    border: none;
-  }
-</style>
-
-<table width="100%" style="border: none;">
+<table width="100%" style="border: none; border-collapse: collapse;>
 
  <tr style="border: none;">
     <td width="50%" style="border: none;">
