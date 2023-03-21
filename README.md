@@ -11,10 +11,12 @@ Hi, I'm Abiel Porras!
 	<h4 align="center">
 		<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
-		<br>
+	</h4>
+	<h4 align="left">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
-		<br>
+	</h4>
+	<h4 align="right">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/itchio/itchio-original.svg" alt="itch.io" width="40" height="40"/>
 		<a href="mailto:abielpg.juzo@gmail.com" style="font-size: 16px;">abielpg.juzo@gmail.com</a>
 	</h4>
