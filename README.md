@@ -5,6 +5,12 @@ Hi, I'm Abiel Porras!
 	</a>
 </h1>
 
+<style>
+  table {
+    border-collapse: collapse;
+    border: none;
+  }
+</style>
 
 <table width="100%" style="border: none;">
 
