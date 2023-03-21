@@ -6,15 +6,13 @@ Hi, I'm Abiel Porras!
 </h1>
 
 <h3 align="center">
-	Computer Science Engineering student at the Tecnológico de Costa Rica
-	<h5 align="center">
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-	abielpg.juzo@gmail.com
-</h5>
+    Computer Science Engineering student at the Tecnológico de Costa Rica
+    <br>
+    <span style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://img.icons8.com/fluency-systems-filled/24/000000/gmail.png"/>
+        <a href="mailto:abielpg.juzo@gmail.com">abielpg.juzo@gmail.com</a>
+    </span>
 </h3>
-
 
 
 
