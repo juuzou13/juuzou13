@@ -5,10 +5,10 @@ Hi, I'm Abiel Porras!
 	</a>
 </h1>
 
-<table width="100%">
+<!-- <table width="100%">
 
  <tr>
-    <td width="50%">
+    <td width="50%"> -->
      
 ## 🛠️ Skills
 
@@ -60,11 +60,15 @@ Hi, I'm Abiel Porras!
 
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
      
-</td>
-    <td>
+<!-- </td>
+    <td> -->
   
 ## 📄📜 Stats
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juuzou13&show_icons=true&theme=dark&line_height=27&hide=issues&hide_border=true&bg_color=0d1117" alt="Esteban Alvarado github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=juuzou13&hide=scss,css,html,less&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" />
+</div>
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=juuzou13&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
@@ -74,18 +78,9 @@ Hi, I'm Abiel Porras!
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuzou13&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
-  </td>
+<!--   </td>
  </tr>
-</table>
-
-<div style="display: flex;">
-  <div style="width: 50%;">
-    Contenido de la primera columna
-  </div>
-  <div style="width: 50%;">
-    Contenido de la segunda columna
-  </div>
-</div>
+</table> -->
 
 
 <!--
