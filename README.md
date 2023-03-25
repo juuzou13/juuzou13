@@ -6,7 +6,7 @@ Hi, I'm Abiel!
 </h1>
 
 <h3 align="center">
-	Computer Science Engineering student at the Tecnológico de Costa Rica
+	Computer Science Engineering student at the Instituto Tecnológico de Costa Rica
 </h3>
 
 ✍️ &nbsp;I'm a final-year student of Computer Science, passionate about software development and video games. During my studies, I have had the opportunity to work on several projects, where I have gained extensive experience in developing web and desktop applications, as well as software documentation.\
