@@ -10,7 +10,7 @@ Hi, I'm Abiel!
 </h3>
 
 ✍️ &nbsp;I'm a final-year student of Computer Science, passionate about software development and video games. During my studies, I have had the opportunity to work on several projects, where I have gained extensive experience in developing web and desktop applications, as well as software documentation.\
-💡 &nbsp;I also have experience leading teams, with strong communication and adaptability skills, and a strong desire to continue learning and improving as a self-taught individual.\
+💡 &nbsp;In this process, I have learned good programming practices including the use of data structures, design patterns, programming paradigms, and software architectures. Besides that, I have worked with SQL and NoSQL databases, which has allowed me to learn about persistent storage.\
 🚀 &nbsp;I'm interested in job opportunities that allow me to continue growing in software development, applying my technical and leadership skills, and contributing to achieving concrete objectives and results.
 
 <h2 align="center">
